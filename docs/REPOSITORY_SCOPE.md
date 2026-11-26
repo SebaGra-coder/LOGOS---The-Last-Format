@@ -1,12 +1,15 @@
 # Ambito della repository
 
-Questa repository pubblica è destinata alla **documentazione del progetto LOGOS – The Last Format**, non alla distribuzione della build Windows o del progetto Unity completo.
+Questa repository pubblica è destinata alla **documentazione e alla presentazione del progetto LOGOS – The Last Format**, non alla distribuzione della build Windows o del progetto Unity completo.
 
 ## Cosa è incluso
 
-- README e documentazione tecnica descrittiva.
+- README e documentazione descrittiva del progetto.
+- Galleria di immagini in [`docs/images/`](images/), con render dei personaggi e panoramiche dei tre livelli e dell'arena finale.
 - File di configurazione Unity già presenti nel repository.
 - Configurazione dei pacchetti e versione dell'editor, utili a identificare l'ambiente di sviluppo.
+
+Le immagini sono riferimenti visivi del progetto: i render dei personaggi mostrano i modelli 3D, mentre le panoramiche dei livelli documentano il lavoro di level design. Non costituiscono una registrazione della demo in esecuzione.
 
 ## Cosa non è incluso
 
