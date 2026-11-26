@@ -64,6 +64,28 @@ La build Windows e il video gameplay sono conservati privatamente e non sono dis
   <img src="docs/images/Arena-Finale.png" alt="Arena finale dello scontro con Critical Failure" width="850">
 </p>
 
+### Sequenza di gameplay
+
+Le seguenti schermate mostrano tre momenti della demo, nell'ordine: distruzione del mondo, movimento di Aster e combattimento.
+
+**01 — Distruzione del mondo**
+
+<p align="center">
+  <img src="docs/images/World-Deallocation.png" alt="Sequenza di distruzione e de-allocazione del mondo" width="850">
+</p>
+
+**02 — Camminata**
+
+<p align="center">
+  <img src="docs/images/Aster-Walking.png" alt="Aster mentre cammina nell'ambiente di gioco" width="850">
+</p>
+
+**03 — Combattimento**
+
+<p align="center">
+  <img src="docs/images/Aster-Combat.png" alt="Aster durante un combattimento" width="850">
+</p>
+
 ## Sistemi implementati
 
 - Movimento del protagonista tramite Unity Input System.
