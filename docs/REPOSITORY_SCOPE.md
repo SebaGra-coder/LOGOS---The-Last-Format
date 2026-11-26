@@ -5,11 +5,11 @@ Questa repository pubblica è destinata alla **documentazione e alla presentazio
 ## Cosa è incluso
 
 - README e documentazione descrittiva del progetto.
-- Galleria di immagini in [`docs/images/`](images/), con render dei personaggi e panoramiche dei tre livelli e dell'arena finale.
+- Galleria di immagini in [`docs/images/`](images/), con render dei personaggi, panoramiche dei tre livelli e dell'arena finale, e tre screenshot catturati durante la demo.
 - File di configurazione Unity già presenti nel repository.
 - Configurazione dei pacchetti e versione dell'editor, utili a identificare l'ambiente di sviluppo.
 
-Le immagini sono riferimenti visivi del progetto: i render dei personaggi mostrano i modelli 3D, mentre le panoramiche dei livelli documentano il lavoro di level design. Non costituiscono una registrazione della demo in esecuzione.
+I materiali visivi hanno provenienze differenti: i render mostrano i modelli dei personaggi, le panoramiche documentano il level design e tre screenshot mostrano momenti della demo in esecuzione (distruzione del mondo, camminata e combattimento).
 
 ## Cosa non è incluso
 
