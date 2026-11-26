@@ -11,16 +11,16 @@ Ambientato in **SYNTÁXIS**, un'architettura digitale prossima al collasso, il g
 | | |
 |---|---|
 | Genere | Action 3D isometrico |
-| Engine | Unity 6 |
+| Engine | Unity 6 — **6000.3.16f1** |
 | Linguaggio | C# |
-| Piattaforma | Windows PC |
+| Piattaforma della demo | Windows PC |
 | Sviluppo | Individuale – MONAD STUDIO |
 | Durata di sviluppo | Circa 5 mesi |
 | Durata media della demo | 15–30 minuti |
 
 ## La demo
 
-La build realizzata per l'esame comprende **tre livelli e un'arena finale**. I livelli includono corridoi, tutorial, differenti tipologie di nemici e un'arena da completare per accedere all'area successiva. La durata indicativa è di 15–30 minuti, in base all'abilità del giocatore.
+La demo realizzata per l'esame comprende **tre livelli e un'arena finale**. I livelli includono corridoi, tutorial, differenti tipologie di nemici e un'arena da completare per accedere all'area successiva. La durata indicativa è di 15–30 minuti, in base all'abilità del giocatore.
 
 La build Windows e il video gameplay sono conservati privatamente e non sono distribuiti da questa repository.
 
@@ -37,7 +37,7 @@ La build Windows e il video gameplay sono conservati privatamente e non sono dis
 - Boss fight contro Critical Failure.
 - Gestione della telecamera.
 - Audio Manager, mixer e sound design contestuale.
-- De-allocazione dinamica del pavimento: le singole piattaforme scompaiono e successivamente ricompaiono e risalgono.
+- De-allocazione dinamica del pavimento: le singole piattaforme si disattivano/scompaiono e successivamente ricompaiono e risalgono.
 
 ## Art direction e asset
 
@@ -51,7 +51,7 @@ Il sound design è stato curato individualmente, combinando risorse audio estern
 
 ## Tecnologie
 
-Unity 6 · C# · Unity Input System · Unity NavMesh · Coroutine · Object Pooling · Prefab · Tilemap · Shader · Particle System · Mixamo · Inno Setup.
+Unity 6 · C# · Unity Input System · AI Navigation / NavMesh · Coroutine · Object Pooling · Prefab · Tilemap · Shader · Particle System · Mixamo · Inno Setup.
 
 ## Stato e limitazioni
 
@@ -63,6 +63,7 @@ Il sistema completo di progressione e potenziamento previsto dal Game Design Doc
 - [Panoramica tecnica](docs/TECHNICAL_OVERVIEW.md)
 - [Processo di sviluppo](docs/DEVELOPMENT.md)
 - [Crediti e risorse](docs/CREDITS.md)
+- [Ambito della repository](docs/REPOSITORY_SCOPE.md)
 
 ## Autore
 
