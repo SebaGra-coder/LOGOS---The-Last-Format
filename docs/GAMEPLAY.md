@@ -4,6 +4,28 @@
 
 La demo giocabile è composta da **tre livelli e un'arena finale**. Ogni livello introduce un'area distinta, con corridoi, piattaforme e incontri con i nemici. Le arene bloccano temporaneamente l'area e gestiscono le ondate da completare per proseguire. La durata media indicativa della demo è di 15–30 minuti e varia in base all'abilità del giocatore.
 
+## Sequenza di gameplay
+
+Le tre schermate seguenti documentano, nell'ordine, la distruzione del mondo, la camminata di Aster e una situazione di combattimento.
+
+### 1. Distruzione del mondo
+
+<p align="center">
+  <img src="images/World-Deallocation.png" alt="Distruzione e de-allocazione del mondo" width="900">
+</p>
+
+### 2. Camminata
+
+<p align="center">
+  <img src="images/Aster-Walking.png" alt="Aster mentre cammina nell'ambiente di gioco" width="900">
+</p>
+
+### 3. Combattimento
+
+<p align="center">
+  <img src="images/Aster-Combat.png" alt="Aster durante un combattimento" width="900">
+</p>
+
 ## Aster e combattimento
 
 Aster è il protagonista controllato dal giocatore.
