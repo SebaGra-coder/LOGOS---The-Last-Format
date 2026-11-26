@@ -24,6 +24,46 @@ La demo realizzata per l'esame comprende **tre livelli e un'arena finale**. I li
 
 La build Windows e il video gameplay sono conservati privatamente e non sono distribuiti da questa repository.
 
+## Galleria
+
+### Protagonista
+
+<p align="center">
+  <img src="docs/images/Aster.png" alt="Aster, protagonista di LOGOS – The Last Format" width="360">
+</p>
+
+### Nemici
+
+| Logic Error | Memory Leak | Runtime Exception | Critical Failure |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/images/Logic-Error.png" alt="Logic Error" width="190"> | <img src="docs/images/Memory-Leak.png" alt="Memory Leak" width="190"> | <img src="docs/images/Runtime-Exception.png" alt="Runtime Exception" width="190"> | <img src="docs/images/Critical-Failure.png" alt="Critical Failure" width="190"> |
+
+### Level design
+
+**Livello 1 – Tutorial**
+
+<p align="center">
+  <img src="docs/images/Livello-1.png" alt="Primo livello e area tutorial" width="850">
+</p>
+
+**Livello 2 – Area viola**
+
+<p align="center">
+  <img src="docs/images/Livello-2.png" alt="Secondo livello con piattaforme sospese" width="850">
+</p>
+
+**Livello 3 – Area dorata**
+
+<p align="center">
+  <img src="docs/images/Livello-3.png" alt="Terzo livello con elementi dorati" width="850">
+</p>
+
+### Arena finale
+
+<p align="center">
+  <img src="docs/images/Arena-Finale.png" alt="Arena finale dello scontro con Critical Failure" width="850">
+</p>
+
 ## Sistemi implementati
 
 - Movimento del protagonista tramite Unity Input System.
